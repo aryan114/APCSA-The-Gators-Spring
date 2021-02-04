@@ -12,7 +12,7 @@ Currently, this doesn't reflect the actual Gators Project. This is just random c
 ### Week of 2/1
 Everyone in our Scrum Team was able to install VMWare and run a virtual machine. We all also have IntelliJ Ultimate installed in those VMs and were able to pull the repo and run the Travel Webpage.
 
-[Made JAR File](https://github.com/aryan114/APCSA-The-Gators-Spring/projects/1): We were successfully able to use Maven to create a JAR file. We will be using this JAR file to deploy our project.
+[Made JAR File](https://github.com/aryan114/APCSA-The-Gators-Spring/issues/15): We were successfully able to use Maven to create a JAR file. We will be using this JAR file to deploy our project.
 
 [Install IntelliJ Ultimate on VM](): All of us were able to install VMWare and a windows or ubuntu VM where we were able to install IntelliJ Ultimate. We were then able to push the code to the repo through our VMs. 
 
