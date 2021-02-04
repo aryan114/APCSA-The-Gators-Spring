@@ -14,8 +14,8 @@ Everyone in our Scrum Team was able to install VMWare and run a virtual machine.
 
 [Made JAR File](https://github.com/aryan114/APCSA-The-Gators-Spring/issues/15): We were successfully able to use Maven to create a JAR file. We will be using this JAR file to deploy our project.
 
-[Install IntelliJ Ultimate on VM](): All of us were able to install VMWare and a windows or ubuntu VM where we were able to install IntelliJ Ultimate. We were then able to push the code to the repo through our VMs. 
+[Install IntelliJ Ultimate on VM](https://github.com/aryan114/APCSA-The-Gators-Spring/issues/10): All of us were able to install VMWare and a windows or ubuntu VM where we were able to install IntelliJ Ultimate. We were then able to push the code to the repo through our VMs. 
 
-[Get WebServer running on Machine](): We were able to successfully use Spring to run the Travel Webpage on our VMs.  
+[Get WebServer running on Machine](https://github.com/aryan114/APCSA-The-Gators-Spring/issues/2): We were able to successfully use Spring to run the Travel Webpage on our VMs.  
 
 Links to the code/assignment are on the Ticket itself.
