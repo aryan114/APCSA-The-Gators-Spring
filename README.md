@@ -24,4 +24,4 @@ Everyone in our Scrum Team was able to install VMWare and run a virtual machine.
 [Get WebServer running on Machine](https://github.com/aryan114/APCSA-The-Gators-Spring/issues/2): We were able to successfully use Spring to run the Travel Webpage on our VMs. 
 ![](https://github.com/aryan114/APCSA-The-Gators-Spring/blob/master/src/main/Images/website.PNG)
 
-Links to the code/assignment are on the Ticket itself.
+Links to the code/assignment are on the Ticket itself (in the Done Column).
