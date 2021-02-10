@@ -16,10 +16,11 @@ Currently, this doesn't reflect the actual Gators Project. This is just random c
 ### Week of 2/8
 
 Our team is focused on creating a new project with a more coherant theme for the web. We will create a series of calculators that will be combined into one large calculator, so we will individually code things like a derivative, integral, and area calculator + many more. Here are the indiviudal assignments below:
-Aryan: Derivative Calculator, Mean, Median, Mode Calculator, and Trig Calculator.
-Pranav: Area of 2D Shapes, Volume of 3D Shapes, Conversions
-Praveen:
-Neil:
+
+### Aryan: Derivative Calculator, Mean, Median, Mode Calculator, and Trig Calculator.
+### Pranav: Area of 2D Shapes, Volume of 3D Shapes, Conversions
+### Praveen:
+### Neil:
 
 We will integrate our project with the scrum team Coconuts. 
 
