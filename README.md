@@ -8,6 +8,22 @@ By Pranav, Aryan, Praveen and Neil
 To view our spring website, just visit this website: https://csa-gators-suit.herokuapp.com/
 This website will be updated as we continue to improve our calculator code and add new calculators. As we add more code, our repository in GitHub will be updated. However, this code then needs to be pushed to Heroku for those changes to be reflected on the website.
 
+Our goal was to make the interface as simple as possible, therefore, everything is very straightforward. Once the user opens up the website, there are buttons to different calculators on the home page. The user can simply click on the button for the calculator they want to use.
+
+Some of these buttons are:
+* Derivative Calculator
+* Basic 4-Function Calculator
+* Integral Calculator
+* Trig Function Calculator
+* Graphing Calcualtor
+* Statistics Calculator
+* Area and Volume Calculator
+* Conversions
+
+As we make more calculators, they will be added to the list here.
+
+Currently, the buttons won't lead the user anywhere because the backend code hasn't been coded yet.
+
 #### Pull and Run:
 In order to run our project, first pull the APCSA-The-Gators-Spring Repo into IntelliJ through a remote. This project uses JDK 15. In order to run the project, run the DemoApplication.java file, and this is located in src>main>java>com.example.demo>DemoApplication.
 
