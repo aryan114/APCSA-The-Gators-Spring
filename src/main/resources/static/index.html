@@ -1,25 +1,34 @@
 <!-- This page is illustrative and contains ideas about HTML formatting -->
 <!DOCTYPE HTML>
-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
-<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
-      layout:decorate="~{fragments/layout}" lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 
-<head><div layout:fragment="metadata" th:remove="tag">
-    <title>Gators Main</title>
-</div></head>
 
-<!-- layout::fragment="content" is heart of ThymeLeaf layout -->
-<body><div layout:fragment="content" th:remove="tag">
-    <!-- Body of Page, the content details -->
-    <div id="spring_intro" class="articles" style="margin: 30px;">
-        <h1><strong>The Gators' Project</strong></h1>
-        <h3><strong>What is the project about?</strong></h3>
-        <ol>
-            <li>Access many calculators no matter what your type of calculation you have. </li>
-        </ol>
-        <h5><strong>Project by: Pranav, Aryan, Praveen, Neil</strong></h5>
+<!-- Head, think of things that are more meta or format oriented -->
+<head th:replace="fragments/headfile :: head">
+    <title>GATORS</title>
+</head>
 
-    </div>
-</div></body>
+<body>
+<!-- Header of Page, includes Navigation -->
+<div th:replace="fragments/header :: header"></div>
 
+<!-- Body of Page, the details of this pages -->
+<div class="screen" style="margin: 25px;">
+    <h1><strong>Period 1 Gators</strong></h1>
+
+    <p class="smalltext">Welcome to the Website of the Gators, our Developers Neil and Praveen are adding more stuff!
+        <a href="https://github.com/aryan114/APCSA-The-Gators-Spring" class="address" target="_blank" rel="noopener noreferrer">Link to Github</a>
+
+
+
+    <h3><strong>Journals</strong></h3>
+    <ol class="smalltext">
+        <li><a href="https://docs.google.com/document/d/11P2fqfbp5GWF5NYZoL8CgCEbVxykWBszKnbGzh17aJo/edit?usp=sharing" target="_blank" rel="noopener noreferrer" class="address">Neil and Praveen</a></li>
+        <li><a href="" target="_blank" rel="noopener noreferrer" class="address">Aryan and Pranav</a></li>
+    </ol>
+</div>
+
+<!-- Footer of Page, includes things like contacts or copywrite -->
+<div th:replace="fragments/footer :: footer"></div>
+</body>
 </html>

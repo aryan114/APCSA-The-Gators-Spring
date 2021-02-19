@@ -1,48 +1,13 @@
-<!DOCTYPE html>
-<html lang="en" xmlns:th="http://www.thymeleaf.org">
-<head>
-    <title>...</title>
-</head>
-<body>
-<!-- Bootstrap Navigation Code -->
-<nav class="navbar navbar-expand-lg navbar-light bg-light" th:fragment="header">
-    <a class="navbar-brand" href="/pbl">The Gators</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="/">Graphing Calculator <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdowno" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Elementary Calculators
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="/java-event">Basic 4 Function Calculator</a>
-                    <a class="dropdown-item" href="/java-mvc">Statistics Calculator</a>
-                    <a class="dropdown-item" href="/java-hello">Area and Volume Calculator</a>
-                </div>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Advanced Calculators
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="/repos">Derivative Calculator</a>
-                    <div class="dropdown-divider">Integral Calcualator</div>
-                    <a class="dropdown-item" href="/greet">Trigonometry Calculator</a>
-                    <a class="dropdown-item" href="/snake">Conversions</a>
-                </div>
-            </li>
-
-        </ul>
-
-        <!-- Navigation bar JavaScript support -->
-
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+            <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="#">Calculators</a>
+            <a class="nav-item nav-link" href="#">Team Members</a>
+        </div>
     </div>
 </nav>
-</body>
-</html>
