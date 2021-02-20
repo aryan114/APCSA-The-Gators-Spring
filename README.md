@@ -1,8 +1,6 @@
 # APCSA-The-Gators-Spring
 By Pranav, Aryan, Praveen and Neil
 
-Note that Praveen is having issues with Github, so he is unable to commit, but he is still working on the project through Deployment
-
 ### Running our project
 
 #### Deployed Website:
@@ -24,6 +22,10 @@ Some of these buttons are:
 As we make more calculators, they will be added to the list here.
 
 Currently, the buttons won't lead the user anywhere because the backend code hasn't been coded yet.
+
+### Week of 2/15
+
+Our team, primarily Neil, was focused on creating and editing the front end code through a template. In the commit history, you can see that more CSS files and code were added in order to better style our website. Furthermore we were able to deploy our project on the world wide web through an application called Heroku. We made some progress on the front end aspect of our code as we have links to each pair share's journals, a brief project overview, and links to each member's GitHub profile.
 
 #### Pull and Run:
 In order to run our project, first pull the APCSA-The-Gators-Spring Repo into IntelliJ through a remote. This project uses JDK 15. In order to run the project, run the DemoApplication.java file, and this is located in src>main>java>com.example.demo>DemoApplication.
