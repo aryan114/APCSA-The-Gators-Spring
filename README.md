@@ -6,7 +6,7 @@ Note that Praveen is having issues with Github, so he is unable to commit, but h
 ### Running our project
 
 #### Deployed Website:
-To view our spring website, just visit this website: https://csa-gators-suit.herokuapp.com/
+To view our spring website, just visit this website here: https://csa-gators-suit.herokuapp.com/
 This website will be updated as we continue to improve our calculator code and add new calculators. As we add more code, our repository in GitHub will be updated. However, this code then needs to be pushed to Heroku for those changes to be reflected on the website.
 
 Our goal was to make the interface as simple as possible, therefore, everything is very straightforward. Once the user opens up the website, there are buttons to different calculators on the home page. The user can simply click on the button for the calculator they want to use.
