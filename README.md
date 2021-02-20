@@ -1,7 +1,7 @@
 # APCSA-The-Gators-Spring
 By Pranav, Aryan, Praveen and Neil
 
-### Note that Praveen is having issues with Github, so he is unable to commit, but he is still working on the project
+Note that Praveen is having issues with Github, so he is unable to commit, but he is still working on the project through Deployment
 
 ### Running our project
 
